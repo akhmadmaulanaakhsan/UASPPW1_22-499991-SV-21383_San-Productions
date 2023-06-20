@@ -2,6 +2,7 @@
 Memenuhi penugasan untuk nilai UAS PPW1
 
 Nama : Akhmad Maulana Akhsan
+
 NIM    : 22/499991/SV/21383
 
 1.	Penjelasan web secara umum
@@ -21,9 +22,9 @@ Berikut adalah penjelasan untuk setiap bagian/section pada website SAN Productio
 
 a.	Navbar
     
-  • Tujuan: Navbar (navigasi bar) digunakan untuk memberikan navigasi yang konsisten dan mudah diakses ke berbagai halaman atau bagian utama website. Tujuannya adalah untuk memudahkan pengunjung dalam menjelajahi konten website.
+     • Tujuan: Navbar (navigasi bar) digunakan untuk memberikan navigasi yang konsisten dan mudah diakses ke berbagai halaman atau bagian utama website. Tujuannya adalah untuk memudahkan pengunjung dalam menjelajahi konten website.
     
-  •	Konten: Navbar biasanya terdiri dari daftar tautan (links) atau menu yang mengarahkan pengunjung ke halaman utama, layanan, portofolio, tentang perusahaan, blog, dan halaman kontak.
+    •	Konten: Navbar biasanya terdiri dari daftar tautan (links) atau menu yang mengarahkan pengunjung ke halaman utama, layanan, portofolio, tentang perusahaan, blog, dan halaman kontak.
 
 b.	Hero Section:
     
