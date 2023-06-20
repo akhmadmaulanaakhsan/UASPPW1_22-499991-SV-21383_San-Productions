@@ -10,9 +10,10 @@ Website yang dibuat adalah situs untuk SAN Productions, sebuah layanan fotografi
 
 
 Website ini mencoba menangani beberapa permasalahan yang umum terkait dengan penyediaan layanan fotografi, seperti:
- 
   •	Informasi yang tidak mudah diakses: Website ini memberikan informasi yang lengkap tentang layanan fotografi yang ditawarkan, termasuk harga, durasi pemotretan, dan contoh-contoh hasil fotografi.
+  
   •	Komunikasi yang kurang efektif: Website ini menyediakan formulir kontak dan informasi kontak yang memudahkan pengguna untuk menghubungi SAN Productions untuk pertanyaan, permintaan penawaran, atau pemesanan.
+  
   •	Presentasi visual yang menarik: Website ini menggunakan desain yang rapi dan menarik dengan gambar-gambar yang menggambarkan kualitas dan keahlian fotografi yang ditawarkan oleh SAN Productions.
 
 Berikut adalah penjelasan untuk setiap bagian/section pada website SAN Productions:
