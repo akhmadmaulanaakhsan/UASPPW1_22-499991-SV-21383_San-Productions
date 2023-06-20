@@ -8,6 +8,7 @@ NIM    : 22/499991/SV/21383
 
 Website yang dibuat adalah situs untuk SAN Productions, sebuah layanan fotografi profesional. Tujuan dari website ini adalah untuk memberikan informasi tentang layanan fotografi yang ditawarkan oleh SAN Productions, seperti fotografi produk, potret, dan dokumentasi acara. Klien yang membutuhkan website ini adalah SAN Productions sebagai penyedia layanan fotografi. Melalui website ini, SAN Productions ingin menjangkau calon klien potensial yang membutuhkan jasa fotografi mereka.
 
+
 Website ini mencoba menangani beberapa permasalahan yang umum terkait dengan penyediaan layanan fotografi, seperti:
   •	Informasi yang tidak mudah diakses: Website ini memberikan informasi yang lengkap tentang layanan fotografi yang ditawarkan, termasuk harga, durasi pemotretan, dan contoh-contoh hasil fotografi.
   •	Komunikasi yang kurang efektif: Website ini menyediakan formulir kontak dan informasi kontak yang memudahkan pengguna untuk menghubungi SAN Productions untuk pertanyaan, permintaan penawaran, atau pemesanan.
