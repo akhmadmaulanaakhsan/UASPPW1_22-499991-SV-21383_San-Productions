@@ -1,9 +1,9 @@
 # UASPPW1_22-499991-SV-21383_San-Productions
-Memenuhi penugasan untuk nilai UAS PPW1
+Dibuat untuk memenuhi penugasan sebagai nilai UAS PPW1
 
 Nama : Akhmad Maulana Akhsan
 
-NIM : 22/499991/SV/21383
+NIM  : 22/499991/SV/21383
 
 ------------------------------------------------------------------------ Nomer 1 ---------------------------------------------------------------------------
 
