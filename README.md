@@ -15,13 +15,14 @@ Website ini mencoba menangani beberapa permasalahan yang umum terkait dengan pen
   •	Informasi yang tidak mudah diakses: Website ini memberikan informasi yang lengkap tentang layanan fotografi yang ditawarkan, termasuk harga, durasi pemotretan, dan contoh-contoh hasil fotografi.
   
   •	Komunikasi yang kurang efektif: Website ini menyediakan formulir kontak dan informasi kontak yang memudahkan pengguna untuk menghubungi SAN Productions untuk pertanyaan, permintaan penawaran, atau pemesanan.
+  
   •	Presentasi visual yang menarik: Website ini menggunakan desain yang rapi dan menarik dengan gambar-gambar yang menggambarkan kualitas dan keahlian fotografi yang ditawarkan oleh SAN Productions.
 
 Berikut adalah penjelasan untuk setiap bagian/section pada website SAN Productions:
 
 a.	Navbar
     
-     • Tujuan: Navbar (navigasi bar) digunakan untuk memberikan navigasi yang konsisten dan mudah diakses ke berbagai halaman atau bagian utama website. Tujuannya adalah untuk memudahkan pengunjung dalam menjelajahi konten website.
+   • Tujuan: Navbar (navigasi bar) digunakan untuk memberikan navigasi yang konsisten dan mudah diakses ke berbagai halaman atau bagian utama website. Tujuannya adalah untuk memudahkan pengunjung dalam menjelajahi konten website.
     
    •	Konten: Navbar biasanya terdiri dari daftar tautan (links) atau menu yang mengarahkan pengunjung ke halaman utama, layanan, portofolio, tentang perusahaan, blog, dan halaman kontak.
 
