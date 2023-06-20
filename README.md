@@ -46,93 +46,21 @@ j.	Footer Section:
     •	Konten: Terdiri dari tautan ke halaman-halaman penting lainnya seperti beranda, tentang kami, layanan, portofolio, dan kontak. Juga dapat mencakup informasi hak cipta, ikon media sosial, dan sebagainya.
 
 
-    
-
 2.	Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian)
-    a.	Desain rapi mengikuti kaidah atau prinsip desain,
+
+  	a.	Desain rapi mengikuti kaidah atau prinsip desain,
         -	Section Services
         Secara visual, desain dari section Services terlihat rapi dan mengikuti kaidah atau prinsip desain yang baik. Pertama, penggunaan grid dalam menampilkan layanan fotografi membuat tata letaknya terstruktur dan teratur. Setiap layanan ditempatkan dalam kolom yang sama ukurannya, menciptakan keseimbangan visual yang menyenangkan bagi mata pengguna. Ikon yang digunakan juga sesuai dengan jenis layanan yang ditawarkan, memberikan indikasi visual yang jelas tentang apa yang akan didapatkan pengguna.
         Selain itu, judul dan deskripsi layanan ditampilkan dengan jelas dan mudah dibaca. Penggunaan font yang sesuai dan ukuran teks yang konsisten memberikan kejelasan dan keterbacaan informasi. Adanya kontras warna antara teks dan latar belakang juga membantu pengguna untuk dengan mudah memperhatikan dan memahami konten yang disajikan.
         Berikut kodenya :
-        	        <!-- Services -->
-          <section class="services" id="services">
-            <div class="container">
-              <header>
-                <div class="d-flex flex-column flex-md-row align-items-center">
-                  <h2><span>Our</span> Services</h2>
-                </div>
-                <div class="d-flex flex-column flex-md-row align-items-center pb-2 mb-4 border-bottom">
-                  <p>We offer a wide range of professional photography services to meet your needs:</p>
-                </div>
-              </header>
-              <main>
-                <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-                  <div class="col">
-                    <div class="card mb-4 rounded-3 shadow-sm">
-                      <div class="card-header py-3">
-                        <h4 class="my-0 fw-normal">Product</h4>
-                      </div>
-                      <div class="card-body">
-                        <img src="assets/product.png" alt="Free Service" class="service-image" />
-                        <h1 class="card-title pricing-card-title">Start<small class="text-body-secondary fw-light"> $100</small></h1>
-                        <ul class="list-unstyled mt-3 mb-4">
-                          <li>Shooting Duration: 4-6 hours</li>
-                          <li>Photo Editing Duration: 2-3 days</li>
-                          <li>20 high-resolution edited photo</li>
-                          <li>for e-commerce, catalogs, brochures, and more</li>
-                        </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-outline-danger">Sign up for free</button>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Menambahkan gambar dan informasi lain pada layanan Pro -->
-                  <div class="col">
-                    <div class="card mb-4 rounded-3 shadow-sm">
-                      <div class="card-header py-3">
-                        <h4 class="my-0 fw-normal">Portrait</h4>
-                      </div>
-                      <div class="card-body">
-                        <img src="assets/potrait.jpg" alt="Pro Service" class="service-image" />
-                        <h1 class="card-title pricing-card-title">Start<small class="text-body-secondary fw-light"> $150</small></h1>
-                        <ul class="list-unstyled mt-3 mb-4">
-                          <li>Shooting Duration: 2-3 hours</li>
-                          <li>Photo Editing Duration: 1-2 days</li>
-                          <li>10 high-resolution edited photo</li>
-                          <li>for individuals, families, couples, parent, and more</li>
-                        </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-outline-danger">Get started</button>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Menambahkan gambar dan informasi lain pada layanan Enterprise -->
-                  <div class="col">
-                    <div class="card mb-4 rounded-3 shadow-sm">
-                      <div class="card-header py-3">
-                        <h4 class="my-0 fw-normal">Wedding</h4>
-                      </div>
-                      <div class="card-body">
-                        <img src="assets/prewedding.jpg" alt="Enterprise Service" class="service-image" />
-                        <h1 class="card-title pricing-card-title">Start<small class="text-body-secondary fw-light"> $500</small></h1>
-                        <ul class="list-unstyled mt-3 mb-4">
-                          <li>Shooting Duration: 1-3 days</li>
-                          <li>Photo Editing Duration: 1-2 weeks</li>
-                          <li>150 high-resolution edited photo</li>
-                          <li>for prewedding shoots, wedding day coverage, and more</li>
-                        </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-outline-danger">Contact us</button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </main>
-            </div>
-          </section>
-          <!-- Akhir Services-->
+  	    
+        	     
   	
         -	Section Portfolio
         Dalam section Portfolio, desainnya juga menunjukkan kekompakan dan rapi yang mengikuti prinsip desain yang baik. Judul "Our Last Work" ditampilkan dengan tata letak yang terpusat, menggunakan ukuran teks yang besar dan diberi penekanan visual dengan penggunaan elemen span yang berbeda warna. Hal ini memberikan fokus yang jelas kepada pengguna tentang apa yang akan dilihat dalam bagian ini.
         Tampilan grid untuk menampilkan item-item portfolio memberikan tampilan yang terstruktur dan konsisten. Setiap item ditempatkan dalam kotak yang sama ukurannya dan memiliki jarak yang konsisten antara satu dengan yang lainnya. Efek transformasi saat hover memberikan respons interaktif yang menarik tanpa mengganggu keterbacaan konten.
         Pengaturan responsif pada section Portfolio juga menunjukkan perhatian terhadap pengguna yang mengakses melalui perangkat dengan lebar layar yang berbeda. Pengaturan grid yang berubah sesuai dengan lebar layar memberikan tampilan yang optimal baik pada perangkat desktop maupun perangkat mobile, memastikan pengalaman pengguna yang konsisten dan nyaman.
+  	
   	    Berikut kodenya :
                  <!-- portfolio section -->
             <section id="portfolio" class="py-7">
