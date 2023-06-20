@@ -10,6 +10,7 @@ Website yang dibuat adalah situs untuk SAN Productions, sebuah layanan fotografi
 
 
 Website ini mencoba menangani beberapa permasalahan yang umum terkait dengan penyediaan layanan fotografi, seperti:
+ 
   •	Informasi yang tidak mudah diakses: Website ini memberikan informasi yang lengkap tentang layanan fotografi yang ditawarkan, termasuk harga, durasi pemotretan, dan contoh-contoh hasil fotografi.
   
   •	Komunikasi yang kurang efektif: Website ini menyediakan formulir kontak dan informasi kontak yang memudahkan pengguna untuk menghubungi SAN Productions untuk pertanyaan, permintaan penawaran, atau pemesanan.
@@ -17,35 +18,65 @@ Website ini mencoba menangani beberapa permasalahan yang umum terkait dengan pen
   •	Presentasi visual yang menarik: Website ini menggunakan desain yang rapi dan menarik dengan gambar-gambar yang menggambarkan kualitas dan keahlian fotografi yang ditawarkan oleh SAN Productions.
 
 Berikut adalah penjelasan untuk setiap bagian/section pada website SAN Productions:
+
 a.	Navbar
+    
     •	Tujuan: Navbar (navigasi bar) digunakan untuk memberikan navigasi yang konsisten dan mudah diakses ke berbagai halaman atau bagian utama website. Tujuannya adalah untuk memudahkan pengunjung dalam menjelajahi konten website.
+    
     •	Konten: Navbar biasanya terdiri dari daftar tautan (links) atau menu yang mengarahkan pengunjung ke halaman utama, layanan, portofolio, tentang perusahaan, blog, dan halaman kontak.
+
 b.	Hero Section:
+    
     •	Tujuan: Bagian ini merupakan bagian pertama yang dilihat oleh pengunjung saat mengakses website. Tujuannya adalah untuk menarik perhatian pengunjung dan memberikan gambaran singkat tentang SAN Productions.
+    
     •	Konten: Terdiri dari judul yang menarik, slogan atau tagline yang memperkenalkan SAN Productions, dan mungkin juga gambar atau elemen visual yang menarik perhatian.
+
 c.	About Section:
+    
     •	Tujuan: Bagian ini memberikan informasi tentang SAN Productions sebagai perusahaan fotografi. Tujuannya adalah untuk memperkenalkan tim, pengalaman, dan nilai-nilai perusahaan kepada pengunjung.
+    
     •	Konten: Terdiri dari deskripsi singkat tentang perusahaan, tim fotografer yang berpengalaman, dan nilai-nilai unik yang membedakan SAN Productions dari kompetitor.
+
 d.	Promo Section
+    
     •	Tujuan: Bagian ini dirancang untuk menampilkan promosi atau penawaran khusus yang sedang berlangsung. Tujuannya adalah untuk menarik perhatian pengunjung dan mendorong mereka untuk mengambil tindakan, seperti memesan sesi fotografi atau menggunakan layanan dengan diskon. Visual dari section ini dibuat menarik dengan penggunaan efek carousel.
+    
     •	Konten: Terdiri dari gambar menarik yang memperlihatkan promosi, judul yang menarik, deskripsi singkat tentang promosi, dan tombol tindakan yang mengarahkan pengunjung ke halaman pemesanan atau informasi lebih lanjut.
+
 e.	Production Section
+    
     •	Tujuan: Tujuan dari section "production" adalah untuk memberikan pemahaman yang jelas dan ringkas tentang proses yang harus dilalui pengunjung untuk mendapatkan hasil foto yang memuaskan. Ini juga sebagai penarik minat para pengunjung website.
+    
     •	Konten : Terdiri dari empat langkah atau tahapan yang harus dilalui oleh pengunjung. Setiap langkah memiliki judul, deskripsi, dan ikon yang menggambarkan langkah tersebut.
+
 f.	Services Section 
+    
     •	Tujuan: Bagian ini memberikan informasi tentang layanan fotografi yang ditawarkan oleh SAN Productions. Tujuannya adalah untuk memperjelas jenis layanan yang tersedia dan menggambarkan keahlian dan pengalaman perusahaan dalam setiap bidang.
+    
     •	Konten: Terdiri dari daftar layanan yang disediakan, seperti fotografi produk, potret, dokumentasi acara, dan sebagainya. Setiap layanan dapat disertai dengan deskripsi singkat dan contoh-contoh hasil fotografi.
+
 g.	Portfolio Section
+    
     •	Tujuan: Bagian ini menampilkan portofolio atau contoh-contoh hasil fotografi dari SAN Productions. Tujuannya adalah untuk memamerkan kualitas dan keahlian fotografi perusahaan kepada pengunjung.
+    
     •	Konten: Terdiri dari galeri foto atau tampilan grid yang menampilkan berbagai contoh fotografi yang telah dilakukan oleh SAN Productions. Setiap foto dapat diklik untuk memperbesar dan menampilkan detail lebih lanjut.
+
 h.	Testimonials Section:
+    
     •	Tujuan: Bagian ini menampilkan testimonial atau pendapat dari klien yang puas dengan layanan SAN Productions. Tujuannya adalah untuk membangun kepercayaan dan  meyakinkan pengunjung tentang kualitas layanan perusahaan.
+    
     •	Konten: Terdiri dari kutipan testimonial dari klien, disertai dengan nama klien dan mungkin juga foto klien. Testimonial dapat dikelompokkan berdasarkan jenis layanan atau proyek yang dilakukan.
+
 i.	Contact Section
+    
     •	Tujuan: Bagian ini menyediakan informasi kontak kepada pengunjung yang ingin menghubungi SAN Productions. Tujuannya adalah untuk memudahkan proses komunikasi antara pengunjung dan perusahaan.
+    
     •	Konten: Terdiri dari formulir kontak atau daftar informasi kontak seperti alamat, nomor telepon, dan alamat email. Pengunjung dapat mengisi formulir untuk mengirim pesan atau menggunakan informasi kontak yang disediakan.
+
 j.	Footer Section:
+    
     •	Tujuan: Bagian ini berada di bagian bawah halaman dan menyediakan informasi tambahan serta tautan yang berguna kepada pengunjung.
+    
     •	Konten: Terdiri dari tautan ke halaman-halaman penting lainnya seperti beranda, tentang kami, layanan, portofolio, dan kontak. Juga dapat mencakup informasi hak cipta, ikon media sosial, dan sebagainya.
 
 
